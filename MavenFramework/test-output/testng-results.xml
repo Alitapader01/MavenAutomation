@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-05-18T08:34:57 EDT" name="Default suite" finished-at="2023-05-18T08:35:05 EDT" duration-ms="7964">
+    <groups>
+    </groups>
+    <test started-at="2023-05-18T08:34:57 EDT" name="Default test" finished-at="2023-05-18T08:35:05 EDT" duration-ms="7964">
+      <class name="com.test.MultiTest">
+        <test-method is-config="true" signature="Initalization()[pri:0, instance:com.test.MultiTest@4550bb58]" started-at="2023-05-18T08:34:58 EDT" name="Initalization" finished-at="2023-05-18T08:35:02 EDT" duration-ms="4450" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Initalization -->
+        <test-method signature="AdvanceDropDown()[pri:0, instance:com.test.MultiTest@4550bb58]" started-at="2023-05-18T08:35:02 EDT" name="AdvanceDropDown" finished-at="2023-05-18T08:35:05 EDT" duration-ms="3013" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AdvanceDropDown -->
+        <test-method signature="SelectDropDown()[pri:0, instance:com.test.MultiTest@4550bb58]" started-at="2023-05-18T08:35:05 EDT" name="SelectDropDown" finished-at="2023-05-18T08:35:05 EDT" duration-ms="264" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SelectDropDown -->
+        <test-method is-config="true" signature="CleanUp()[pri:0, instance:com.test.MultiTest@4550bb58]" started-at="2023-05-18T08:35:05 EDT" name="CleanUp" finished-at="2023-05-18T08:35:05 EDT" duration-ms="186" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CleanUp -->
+      </class> <!-- com.test.MultiTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
